@@ -339,7 +339,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Rachana G S**
 - GitHub: [@Rachana200020]](https://github.com/Rachana200020/NammaYantra))
-- Email: your.email@example.com
+- Email: rachanashivakumar20@gmail.com
 
 ---
 
@@ -357,7 +357,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For issues, questions, or feedback:
 - Open an issue on [GitHub Issues]((https://github.com/Rachana200020/NammaYantra)))
-- Email: nayakronayak@gmail.com
+- Email:  rachanashivakumar20@gmail.com
 - Join our [Telegram Community](https://t.me/nammayantara) (coming soon)
 
 ---
